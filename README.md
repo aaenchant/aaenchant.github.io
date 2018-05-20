@@ -1,2 +1,2 @@
-# aaenchant.github.io
-builds
+# aaenchant.ru
+this repository for builds

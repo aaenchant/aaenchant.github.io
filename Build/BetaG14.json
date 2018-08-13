@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "EnchantmentAA",
+"dataUrl": "BetaG14.data.unityweb",
+"asmCodeUrl": "BetaG14.asm.code.unityweb",
+"asmMemoryUrl": "BetaG14.asm.memory.unityweb",
+"asmFrameworkUrl": "BetaG14.asm.framework.unityweb",
+"TOTAL_MEMORY": 167772160,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"}
+}

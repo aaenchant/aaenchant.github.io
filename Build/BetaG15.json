@@ -1,0 +1,14 @@
+{
+"companyName": "AAEnchant.ru",
+"productName": "AAEnchant.ru",
+"dataUrl": "BetaG15.data.unityweb",
+"asmCodeUrl": "BetaG15.asm.code.unityweb",
+"asmMemoryUrl": "BetaG15.asm.memory.unityweb",
+"asmFrameworkUrl": "BetaG15.asm.framework.unityweb",
+"TOTAL_MEMORY": 167772160,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"}
+}

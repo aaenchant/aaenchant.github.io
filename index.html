@@ -11,27 +11,5 @@ var gameInstance = UnityLoader.instantiate("gameContainer", "Build/BetaG15.json"
 </head>
 <body style="padding: 0; margin: 0;">
 <div id="gameContainer" style="width: 1280px; height: 720px; margin: auto"></div>
-  
-  
-<script src=advert.js></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  
-<script>
-  jQuery(document).ready(function(){
-	if ( typeof window.headBnnrs_boolian == 'undefined' ){
-		adTrue();
-	} else {
-		adFalse();
-	}
-});
-  
-  
-function adTrue () {
-gameInstance.SendMessage("AdManager", "adTrue");
-}
-function adFalse () {
-gameInstance.SendMessage("AdManager", "adFalse");
-}
-</script>
 </body>
 </html>
